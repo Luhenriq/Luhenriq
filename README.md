@@ -19,7 +19,7 @@
   ##
  
 
-![snake gif](https://github.com/Luhenriq/Luhenriq/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
